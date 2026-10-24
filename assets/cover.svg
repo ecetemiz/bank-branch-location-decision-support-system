@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#140d2c"/><stop offset="1" stop-color="#3e1a5d"/></linearGradient><linearGradient id="b"><stop stop-color="#fa73ab"/><stop offset="1" stop-color="#e5a1eb"/></linearGradient></defs>
+<rect width="1200" height="340" fill="url(#g)"/><circle cx="1060" cy="-50" r="240" fill="#b03791" opacity=".2"/><circle cx="900" cy="280" r="180" fill="#8a68e1" opacity=".13"/>
+<g fill="#a48add" opacity=".18"><rect x="806" y="170" width="60" height="170"/><rect x="876" y="116" width="48" height="224"/><rect x="936" y="200" width="54" height="140"/><rect x="1000" y="136" width="73" height="204"/><rect x="1083" y="166" width="64" height="174"/></g>
+<path d="M0 304H1200" stroke="#e9a6d5" stroke-opacity=".25" stroke-width="2"/>
+<text x="55" y="74" font-family="Arial,sans-serif" font-size="17" fill="#f9b4da" letter-spacing="5">DECISION SUPPORT SYSTEM / CASE STUDY</text>
+<text x="55" y="152" font-family="Arial,sans-serif" font-size="48" font-weight="bold" fill="#fff">Banka Şubesi Lokasyon Seçimi</text>
+<text x="55" y="202" font-family="Arial,sans-serif" font-size="26" fill="#ded0ef">Ankara · Çok Kriterli Karar Verme</text>
+<rect x="55" y="247" rx="14" width="370" height="47" fill="#9d448d" opacity=".4"/>
+<text x="77" y="278" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#fff">MCDM  •  AHP  •  TOPSIS</text>
+</svg>
